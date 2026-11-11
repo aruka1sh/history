@@ -12,3 +12,5 @@ dist/
 
 # full-resolution photo originals (kept locally, see assets-src/README.md)
 assets-src/originals/
+.vercel
+.env*
